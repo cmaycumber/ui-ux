@@ -1,22 +1,16 @@
 {
-  "name": "react-native-clean-design-example",
+  "name": "unnamed-component-library-example",
   "displayName": "CleanDesign Example",
   "expo": {
-    "name": "react-native-clean-design-example",
-    "slug": "react-native-clean-design-example",
-    "description": "Example app for react-native-clean-design",
+    "name": "unnamed-component-library-example",
+    "slug": "unnamed-component-library-example",
+    "description": "Example app for unnamed-component-library",
     "privacy": "public",
     "version": "1.0.0",
-    "platforms": [
-      "ios",
-      "android",
-      "web"
-    ],
+    "platforms": ["ios", "android", "web"],
     "ios": {
       "supportsTablet": true
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "assetBundlePatterns": ["**/*"]
   }
 }

@@ -2,7 +2,11 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "react-native-clean-design": ["./src/index"]
+      "unnamed-component-library": ["./src/index"],
+      "@types": ["./src/types"],
+      "@theme": ["./src/theme"],
+      "@theme/*": ["./src/theme/*"],
+      "@utils": ["./src/utils"]
     },
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,

@@ -49,7 +49,7 @@ Remember to add tests for your change if possible. Run the unit tests by:
 yarn test
 ```
 
-To edit the Objective-C files, open `example/ios/CleanDesignExample.xcworkspace` in XCode and find the source files at `Pods > Development Pods > react-native-clean-design`.
+To edit the Objective-C files, open `example/ios/CleanDesignExample.xcworkspace` in XCode and find the source files at `Pods > Development Pods > unnamed-component-library`.
 
 To edit the Kotlin files, open `example/android` in Android studio and find the source files at `reactnativecleandesign` under `Android`.
 
